@@ -1,4 +1,5 @@
 📂 Create-BulkUsers.ps1
+
 Overview
 This PowerShell script automates the creation of local user accounts based on input from a CSV file. It’s designed as a lightweight lab demonstration of user onboarding logic, useful for IT pros working toward roles in endpoint administration, identity management, and M365/Intune environments.
 
