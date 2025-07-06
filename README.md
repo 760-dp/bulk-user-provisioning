@@ -28,11 +28,13 @@ Riley,Stone,rstone,IT
 
 ## ⚙️ How to Run It
 
+```
 1. Place `Create-BulkUsers.ps1` and `users.csv` in the same folder  
 2. Open **PowerShell as Administrator**  
 3. Navigate to the folder: cd "C:\Users<YourUsername>\OneDrive\Desktop\BulkUserDemo"
 4. Allow temporary script execution: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 5. 5. Run the script: .\Create-BulkUsers.ps1
 
+```
 
 
